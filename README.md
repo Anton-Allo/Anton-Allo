@@ -1,4 +1,6 @@
-### Hi there 👋
+## Всем привет, меня зовут Антон 👋
+
+Я начинающий Frontend-разработчик, обучаюсь в Яндекс Практикуме на курсе "Веб разработчик". Дополнительно прохожу различные курсы от разных менторов для лучшего закрепления материала.
 
 <!--
 **Anton-Allo/Anton-Allo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
